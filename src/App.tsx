@@ -310,13 +310,14 @@ function App() {
             </p>
 
             <a
-              href="/portfolio.pdf"
-              download
+              href="/PPW-Portfolio/certificates/cv.pdf"
+              download="cv.pdf"
               className="inline-flex items-center space-x-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl"
             >
               <Download className="w-5 h-5" />
               <span>Download PDF</span>
             </a>
+             
 
           </div>
 
@@ -468,7 +469,7 @@ function App() {
               <p className="text-gray-700 text-sm text-center mb-6">Completed: December 28, 2024 | Duration: 6h 34m</p>
               <div className="text-center">
                 <a
-                  href="/projects/docs/Tableau Certified Data Analyst Cert Prep.pdf"
+                  href="/PPW-Portfolio/certificates/Tableau Certified Data Analyst Cert Prep.pdf"
                   download="Tableau_Certified_Data_Analyst.pdf"
                   className="inline-flex items-center space-x-2 text-blue-600 hover:text-blue-800 font-medium"  >
                   <ExternalLink className="w-4 h-4" />
@@ -488,7 +489,7 @@ function App() {
               <p className="text-gray-700 text-sm text-center mb-6">Completed: December 26, 2024 | Duration: 36m</p>
               <div className="text-center">
                 <a
-                  href="/projects/docs/Using Large Datasets with pandas.pdf"
+                  href="/PPW-Portfolio/certificates/Using Large Datasets with pandas.pdf"
                   download="Using Large Datasets with pandas.pdf"
                   className="inline-flex items-center space-x-2 text-blue-600 hover:text-blue-800 font-medium"  >
                   <ExternalLink className="w-4 h-4" />
@@ -508,7 +509,7 @@ function App() {
               <p className="text-gray-700 text-sm text-center mb-6">Completed: June, 2024</p>
               <div className="text-center">
                 <a
-                  href="/projects/docs/Building recommendation systems.pdf"
+                  href="/PPW-Portfolio/certificates/Building recommendation systems.pdf"
                   download="Building recommendation systems.pdf"
                   className="inline-flex items-center space-x-2 text-blue-600 hover:text-blue-800 font-medium"  >
                   <ExternalLink className="w-4 h-4" />
@@ -528,7 +529,7 @@ function App() {
               <p className="text-gray-700 text-sm text-center mb-6">Completed: May, 2024 </p>
               <div className="text-center">
                 <a
-                  href="/projects/docs/Power Bi projects.pdf"
+                  href="/PPW-Portfolio/certificates/Power Bi projects.pdf"
                   download="Power Bi projects.pdf"
                   className="inline-flex items-center space-x-2 text-blue-600 hover:text-blue-800 font-medium"  >
                   <ExternalLink className="w-4 h-4" />
@@ -548,7 +549,7 @@ function App() {
               <p className="text-gray-700 text-sm text-center mb-6">Completed: May, 2024 </p>
               <div className="text-center">
                 <a
-                  href="/projects/docs/DataScience Foundations.jpg"
+                  href="/PPW-Portfolio/certificates/DataScience Foundations.jpg"
                   download="DataScience Foundations.jpg"
                   className="inline-flex items-center space-x-2 text-blue-600 hover:text-blue-800 font-medium"  >
                   <ExternalLink className="w-4 h-4" />
